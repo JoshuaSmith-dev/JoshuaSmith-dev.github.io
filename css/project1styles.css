@@ -1,0 +1,68 @@
+/***TAG STYLES***/
+
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: white;
+  }
+a {
+    font-size: 1.2em;
+    display: block;
+    padding: 10px 0;
+    color: #11999E;
+    text-decoration: none;
+}
+
+p {
+    font-size: 1.5em;
+    width: 50%;
+    margin: 0 auto 0 auto;
+    line-height: 2;
+}
+
+h1 {
+    font-size: 70px;
+    margin: 50px auto 0px auto;
+    font-family: 'Eczar', serif;
+    color: #66BFBF;
+  }
+  
+  h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    padding-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    color: #11999E;
+  }
+
+/***CLASS STYLES***/
+
+.personal-portfolio-link {
+    display: inline;
+    text-decoration: none;
+    color: #11999E;
+}
+
+.bottom-container {
+    background-color: rgb(202, 202, 202);
+    padding: 50px 0 20px;
+  }
+
+  .flaticon-attribution {
+    font-size: 1.5em;
+    display: block;
+  }
+
+  .tip-split {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 10px auto;
+  }
