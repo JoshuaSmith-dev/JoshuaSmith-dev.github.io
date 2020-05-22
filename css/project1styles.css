@@ -1,17 +1,17 @@
 /***TAG STYLES***/
 
 body {
-    color: #40514E;
+    color: #34403A;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
-    background-color: white;
+    background-color: #F5F9E9;
   }
 a {
     font-size: 1.2em;
     display: block;
     padding: 10px 0;
-    color: #11999E;
+    color: #F77F00;
     text-decoration: none;
 }
 
@@ -26,20 +26,24 @@ h1 {
     font-size: 70px;
     margin: 50px auto 0px auto;
     font-family: 'Eczar', serif;
-    color: #66BFBF;
+    color: #33403A;
   }
   
   h2 {
     font-family: 'Roboto', sans-serif;
     font-size: 2.5rem;
-    color: #66BFBF;
+    color: 317B22;
     padding-bottom: 10px;
+    width: 60%;
+    margin: 0 auto;
   }
   
   h3 {
     font-size: 2em;
     font-family: 'Roboto', sans-serif;
-    color: #11999E;
+    color: #317B22;
+    width: 60%;
+    margin: 0 auto;
   }
 
 /***CLASS STYLES***/
@@ -47,7 +51,7 @@ h1 {
 .personal-portfolio-link {
     display: inline;
     text-decoration: none;
-    color: #11999E;
+    color: #F77F00;
 }
 
 .bottom-container {
