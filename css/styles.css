@@ -150,7 +150,11 @@ hr {
   margin: 40px auto 60px;
 }
 
-.simple-webpage-project1:hover {
+.simple-webpage-project1 {
   color: #F77F00;
+  text-decoration: underline;
+}
+.simple-webpage-project1:hover {
+  color: #317B22;
 }
 /***EXTERNAL BUTTON CSS STYLE***/
